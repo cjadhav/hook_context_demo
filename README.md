@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
 This is sample react application to demonstrate the hooks implementation with context for global state access within application (to replace redux and it's dependencies)
 
 ## Available Scripts
